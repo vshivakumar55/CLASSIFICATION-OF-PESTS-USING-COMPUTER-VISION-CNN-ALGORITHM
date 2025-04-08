@@ -1,0 +1,2 @@
+python EarlyPestDetection.py
+pause
